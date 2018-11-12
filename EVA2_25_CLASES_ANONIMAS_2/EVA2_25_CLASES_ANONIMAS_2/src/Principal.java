@@ -6,7 +6,7 @@
 
 /**
  *
- * @author invitado
+ * @author Gema Trevizo
  */
 public class Principal {
 
